@@ -1,0 +1,9 @@
+{
+  "name": "currency-api",
+  "version": "0.0.0",
+  "description": "CurrencyApi",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

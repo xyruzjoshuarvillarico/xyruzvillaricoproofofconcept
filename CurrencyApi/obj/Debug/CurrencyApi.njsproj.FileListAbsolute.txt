@@ -1,0 +1,3 @@
+C:\Users\Joshua\source\repos\CurrencyApi\obj\Debug\CurrencyApi.njsproj.AssemblyReference.cache
+C:\Users\Joshua\source\repos\CurrencyApi\obj\Debug\CurrencyApi.njsproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\CurrencyApi\bin\Microsoft.NodejsTools.WebRole.dll
